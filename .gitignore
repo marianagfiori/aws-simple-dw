@@ -1,0 +1,4 @@
+.env
+terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/4.62.0/windows_386/terraform-provider-aws_v4.62.0_x5.exe
+requirements.txt
+logs/
